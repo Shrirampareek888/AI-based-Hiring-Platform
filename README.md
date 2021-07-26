@@ -56,7 +56,7 @@ Project is: _Complete_
 
 
 ## Contact
-Created by [@Shriram Pareek](https://github.com/Shrirampareek888), [@Kishan Partani](https://github.com/KishanPartani),[@Tejas Pradhan](https://github.com/tejaspradhan),[@Aditya Pangaonkar](https://github.com/Adi306) and [@Balaji Padamwar](https://github.com/balaji1608) - feel free to contact us!
+Created by [Shriram Pareek](https://github.com/Shrirampareek888), [Kishan Partani](https://github.com/KishanPartani), [Tejas Pradhan](https://github.com/tejaspradhan), [Aditya Pangaonkar](https://github.com/Adi306) and [Balaji Padamwar](https://github.com/balaji1608) - feel free to contact us!
 
 
 <!-- Optional -->
